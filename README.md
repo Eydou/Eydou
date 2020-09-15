@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on Fedora 31 and Windows 10
-- 🌱 I’m currently learning cpp and haskell
-- 👯 I’m looking to collaborate with @LopesAlexis
+<p align="center">
+  <img src="https://thumbs.gfycat.com/UnlawfulAntiqueAxolotl-size_restricted.gif" alt="Demo" width="800" />
+</p>
