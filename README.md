@@ -3,4 +3,4 @@
 <p><em>3rd year at <a href="https://www.epitech.eu/">Epitech Paris</a>    <img src="https://newsroom.ionis-group.com/wp-content/uploads/2018/12/epitech-logo-signature-quadri.png" width="30"></br>
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-edouard-touch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-edouard touch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
