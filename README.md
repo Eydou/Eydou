@@ -1,7 +1,12 @@
-<h2> Hi there, I'm Edouard Touch! <img src="https://i.pinimg.com/originals/80/21/74/8021744fc275101ed9a4b75ace41f168.gif" width="50"></h2>
-<img align='right' src="https://64.media.tumblr.com/96f59956d9b43d81ee9b754ab39dfbc4/tumblr_nakz6yFHZF1tgzy56o1_250.gifv" width="230">
-<p><em>4th year at <a href="https://www.epitech.eu/">Epitech Paris</a> </br>
-</em></p>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Edouard Touch](https://www.linkedin.com/in/edouard-touch-344108183/) 
 
+### About Me 🚀
+🌱 I’m 4th years at Epitech Paris. </br>
+👨‍💻  I am passionate about Game Dev, haskell & I enjoy learning new things. </br>
 
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=eydou&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eydou&layout=compact&langs_count=8&hide_border=true)
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=eydou.eydou)
 [![GitHub Eydou](https://img.shields.io/github/followers/Eydou?label=follow&style=social)](https://github.com/Eydou)
