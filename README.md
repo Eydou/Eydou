@@ -4,7 +4,8 @@
 🌱 I’m 4th years at Epitech Paris. </br>
 👨‍💻  I am passionate about Game Dev, haskell & I enjoy learning new things. </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eydou&show_icons=true&theme=radical&hide_border)&nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=eydou&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+&nbsp;&nbsp;
 ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eydou&layout=compact&langs_count=8&hide_border=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 <br />
 
