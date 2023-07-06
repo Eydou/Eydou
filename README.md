@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Edouard Touch](https://www.linkedin.com/in/edouard-touch-344108183/) 
 
 ### About Me 🚀
-🌱 I’m 4th years at Epitech Paris. </br>
+🌱 I’m 5th years at Epitech Paris. </br>
 👨‍💻  I am passionate about Game Dev, haskell & I enjoy learning new things. </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=eydou&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
